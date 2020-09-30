@@ -9,12 +9,19 @@ conda
 Jupyter Notebook
 
 ## Structure du projet  
+
 ### Executable:  
 Fichier notebook [ntermovie.ipynb](https://github.com/IssamBouzidi/Intermovie/blob/master/src/intermovie.ipynb)
+
 ### Fichiers sources:  
 Lien vers les datasets utilisés pour la réalisation de ce prpojet [IMDB Datasets](https://stdatalake005.blob.core.windows.net/public/movies_dataset.zip)  
+
 ### Dossier resultat  
 Dossier OUT  
+
+## Execution du projet  
+Il suffit d'executer le fichier ntermovie.ipynb dans le Notebook Jupyter  
+
 ## Resultats:  
 1. La liste des acteurs par film  
 2. La liste des films Américains (en gardant leur nom en français) et leur note moyenne  
