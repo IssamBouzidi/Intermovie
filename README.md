@@ -20,7 +20,7 @@ Lien vers les datasets utilisés pour la réalisation de ce prpojet [IMDB Datase
 Dossier OUT  
 
 ## Execution du projet  
-Il suffit d'executer le fichier ntermovie.ipynb dans le Notebook Jupyter  
+Il faut d'executer le fichier ntermovie.ipynb dans le Notebook Jupyter  
 
 ## Resultats:  
 1. La liste des acteurs par film  
